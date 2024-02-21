@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "image-downloader": "^4.3.0"
+  },
+  "name": "watari_picsart_server",
+  "version": "1.0.0",
+  "main": "test.js",
+  "scripts": {
+    "dev": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
